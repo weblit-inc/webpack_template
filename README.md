@@ -1,9 +1,6 @@
 ## Webpack
 webpack_template
 
-## ディレクトリ構成
-あとでかく
-
 ## Webpack関連
 - ### webpack  
 - ### webpack-cli  
