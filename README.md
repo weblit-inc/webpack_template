@@ -33,9 +33,7 @@ webpack_template
 
 ## NPMインストール
 ```bash
-npm init -y
-
-npm i -D webpack webpack-cli webpack-dev-server css-loader sass sass-loader postcss postcss-loader autoprefixer mini-css-extract-plugin pug pug-loader html-webpack-plugin html-webpack-pug-plugin
+npm i -D
 ```
 
 ## 実行コマンド
