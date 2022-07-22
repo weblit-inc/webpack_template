@@ -1,0 +1,39 @@
+{
+    "name": "webpack_template",
+    "version": "1.0.0",
+    "description": "webpack_template",
+    "main": "webpack.config.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "webpack-dev-server",
+        "build": "webpack",
+        "watch": "webpack --watch"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/weblit-inc/webpack_template.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/weblit-inc/webpack_template/issues"
+    },
+    "homepage": "https://github.com/weblit-inc/webpack_template#readme",
+    "devDependencies": {
+        "autoprefixer": "*",
+        "css-loader": "*",
+        "html-webpack-plugin": "*",
+        "html-webpack-pug-plugin": "*",
+        "mini-css-extract-plugin": "*",
+        "postcss": "*",
+        "postcss-loader": "*",
+        "pug": "*",
+        "pug-loader": "*",
+        "sass": "*",
+        "sass-loader": "*",
+        "webpack": "*",
+        "webpack-cli": "*",
+        "webpack-dev-server": "*"
+    }
+}
