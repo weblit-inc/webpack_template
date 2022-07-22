@@ -4,10 +4,10 @@ html(lang="ja")
         meta(charset="UTF-8")
         meta(http-equiv="X-UA-Compatible" content="IE=edge")
         meta(name="viewport" content="width=device-width, initial-scale=1.0")
-        include utility/_style.pug
         title Document
-    body 
-        include include/_header.pug
-        // main
-        include include/_footer.pug
+        include utility/_style.pug
         include utility/_script.pug
+    body 
+        include component/_header.pug
+        // main
+        include component/_footer.pug
